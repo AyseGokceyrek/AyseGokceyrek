@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyseGokceyrek
 - 👀 I’m interested in Machine Learning, MLOps, AI
-- 🌱 I want to improve myself in the Data Science
+- 🌱 I aim to enhance my expertise in the field of Data Science.
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me https://www.linkedin.com/in/aysegokceyrek/
 
